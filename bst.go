@@ -146,8 +146,6 @@ func get_all_trees(filePath *string, trees *[]*Node ) {
 }
   
 
-// ================================================
-
 type IDHashPair struct {
 	tree_id int
 	hash int 
