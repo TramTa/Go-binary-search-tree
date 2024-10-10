@@ -1,2 +1,4 @@
 # Go-binary-search-tree
-partial course work
+Partial course work
+
+Calculate binary search tree equivalence, using Go language and concurrency.
